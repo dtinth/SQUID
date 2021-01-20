@@ -2,7 +2,7 @@ name: Build Debug Android Package
 on:
   push:
     branches:
-      - master
+      - dtinth
 jobs:
   build:
     runs-on: ubuntu-20.04
